@@ -1,3 +1,10 @@
+.component {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .spinner {
   width: 4rem;
   height: 4rem;
@@ -10,8 +17,8 @@
 
 .rclogo-center {
   position: relative;
-  top: -50px;
-  left: 19px;
+  top: -52px;
+  left: 12px;
   margin: 0;
   font-size: 24px;
   font-weight: bolder;
