@@ -1,5 +1,7 @@
 # RollingCode Spinner!
 
+![Spinnerrr!](https://i.imgur.com/okF8nkX.gif)
+
 Un pequeño spinner ideal para las pantallas de cargas en cualquier aplicación.
 
 ## Contenidos
